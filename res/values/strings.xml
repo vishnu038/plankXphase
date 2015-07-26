@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlankXphase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">ListViewDeleteItems</string>
+	<string name="hintTxtItem">Enter an item here ...</string>
+	<string name="lblBtnAdd">Add Item</string>
+	<string name="txtEmpty">List is empty</string>
+	<string name="lblBtnDel">Delete Selected Items</string>	
+	<string name="action_settings">settings</string>
+
+</resources>
